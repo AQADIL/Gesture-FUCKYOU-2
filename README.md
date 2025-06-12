@@ -8,7 +8,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-brightgreen?logo=opencv)  
 ![PyGame](https://img.shields.io/badge/PyGame-2.1-purple?logo=pygame)  
 
-![DEMO]([https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlaGpkcGg2NW5tOXlzejhjZGV4eml2MG90cjZiaG11ODV4amthZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdtamhhODhxZTRsb2tlam51YTZpYWwwNG9hbHZ0NzhjMHJoZjZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif))
+![Demo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxMnNoMDBoeTM0Mm5ndXpkNzB5enl6cjRjbnV5eHJjdnRjOGI1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif)
 
 </div>
 
